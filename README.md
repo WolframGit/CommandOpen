@@ -18,7 +18,7 @@
 - **Linux**
 - **Termux**
 
-### Установка / Install
+### Установка / Installation
 ````
 sudo apt install git -y
 
